@@ -14,6 +14,7 @@
 		D38AEDAD1F81FDAF00AE98AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D38AEDAB1F81FDAF00AE98AB /* LaunchScreen.storyboard */; };
 		D38AEDB81F81FDB000AE98AB /* hustle_modeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38AEDB71F81FDB000AE98AB /* hustle_modeTests.swift */; };
 		D38AEDC31F81FDB000AE98AB /* hustle_modeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38AEDC21F81FDB000AE98AB /* hustle_modeUITests.swift */; };
+		D38AEDD11F820A7200AE98AB /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = D38AEDD01F81FECD00AE98AB /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D38AEDBE1F81FDB000AE98AB /* hustle-modeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hustle-modeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D38AEDC21F81FDB000AE98AB /* hustle_modeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hustle_modeUITests.swift; sourceTree = "<group>"; };
 		D38AEDC41F81FDB000AE98AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D38AEDD01F81FECD00AE98AB /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		D38AEDA11F81FDAF00AE98AB /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				D38AEDD01F81FECD00AE98AB /* hustle-on.wav */,
 				D38AEDA21F81FDAF00AE98AB /* AppDelegate.swift */,
 				D38AEDA41F81FDAF00AE98AB /* ViewController.swift */,
 				D38AEDA61F81FDAF00AE98AB /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D38AEDD11F820A7200AE98AB /* hustle-on.wav in Resources */,
 				D38AEDAD1F81FDAF00AE98AB /* LaunchScreen.storyboard in Resources */,
 				D38AEDAA1F81FDAF00AE98AB /* Assets.xcassets in Resources */,
 				D38AEDA81F81FDAF00AE98AB /* Main.storyboard in Resources */,
